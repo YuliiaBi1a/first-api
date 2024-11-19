@@ -24,10 +24,10 @@ A simple RESTful API for managing a collection of books, built using Spring Boot
 ### Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/YuliiaBi1a/first-api.git
 2. **Navigate to the project directory:**
     ```bash
-   cd your-project-directory
+   cd <your-project-directory>
 3. **Build the project:**
     ```bash
    mvn clean install

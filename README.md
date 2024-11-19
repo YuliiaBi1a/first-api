@@ -66,7 +66,8 @@ You can use [Postman](https://www.postman.com/) to test the API endpoints.
   {
     "isbn": "A125",
     "title": "New Title",
-    "author": "New
+    "author": "New Author"
+  }
   
 - **Response:** 201 Created or 400 Bad Request if a book with the same ISBN already exists.
 
